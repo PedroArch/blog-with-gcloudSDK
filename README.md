@@ -53,7 +53,7 @@ In the root page `http://localhost:8080/` you can see all posts.
 
 If you enter in `http://localhost:8080/newpost` you can create newposts to the blog
 
-_If you find bugs or problens you can sent a message to me [twitter] or [email]._
+_If you find bugs or problems you can sent a message to me [twitter] or [email]._
 
 
 
