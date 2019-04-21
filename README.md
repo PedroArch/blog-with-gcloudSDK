@@ -44,7 +44,7 @@ pip install google.appengine.ext
 
 2. Replace your PC user in `YOUR_USER`. (_Dont forgot the dot in the final._)
 
-3. In your browser access [link](http://localhost:8080/)
+3. In your browser access [http://localhost:8080/](http://localhost:8080/)
 
 
 ## Usage example
