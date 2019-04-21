@@ -42,7 +42,7 @@ pip install google.appengine.ext
 
 1. in the same folder that **blog.py** file are: `python "C:\Users\YOUR_USER\AppData\Local\Google\Cloud SDK\google-cloud-sdk\bin\dev_appserver.py" .`
 
-2. Don't forget to switch `YOUR_USER` and dot in the final.
+2. Replace your PC user in `YOUR_USER`. (_Dont forgot the dot in the final._)
 
 3. In your browser access [link](http://localhost:8080/)
 
